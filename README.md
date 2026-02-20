@@ -1,4 +1,4 @@
-# SEA: EDA + Weather Project
+# Cyclone: EDA + Weather Project
 
 This project aims to integrate PanGu-Weather (or similar AI weather models) into an RL4Science setup, using an "EDA" (Experiential Digital Agent) architecture to continually control and adapt the weather prediction system.
 
